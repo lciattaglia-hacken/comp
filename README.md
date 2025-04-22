@@ -157,7 +157,7 @@ Steps to deploy Comp AI on Docker are coming soon.
 
 ### Vercel
 
-Steps to deploy Comp AI on Vercel are coming soon.
+Steps to deploy Comp AI on Vercel are coming soon. .
 
 ## Contributors
 
